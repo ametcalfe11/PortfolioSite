@@ -1,0 +1,156 @@
+.title {
+	color:white;
+	font-size: 40px;
+	background-color:black;
+	width:1500px;
+	height:75px;
+	font-family: 'Bad Script', cursive;
+	}
+.title:hover
+{
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+}
+
+
+.about {background-color: #191919;
+	width:300px;
+	height:200px;
+	color:white;
+    font-size: 20px;}
+.artist {  
+	margin-top:10px;}
+.about:hover{
+        background-color:#323232;}
+.profilepic {
+	width:100px;
+	height:150px;
+	margin-left:10px;
+	margin-top:-140px;}
+.paragraph {
+	margin-left:135px;
+	font-size: 13px;}
+
+
+
+.work1 {
+	width:300px;
+	height:200px;
+	background-color:#323232;
+    opacity:1;
+    font-size: 20px;
+    margin-left:300px;
+    margin-top:-150px;
+    color:white;}
+.work1:hover {background-color:#464646;}
+.dogpic {width:200px; height:150px;
+	margin-left:40px;}
+
+
+.work2 {
+	width:300px;
+	height:200px;
+	background-color:#464646;
+    opacity:1;
+    font-size: 20px;
+    margin-left:600px;
+    margin-top:-150px;
+    color:white;}
+.work2:hover {background-color:#585858;}
+
+
+.work3 {
+	width:300px;
+	height:200px;
+	background-color:#585858;
+    opacity:1;
+    font-size: 20px;
+    margin-left:600px;
+    margin-top:-150px;
+    color:white;
+}
+.work3:hover {background-color:#686868;}
+.monapic {width:150px; height:150px;
+	margin-left:70px;}
+
+
+.work4 {
+	width:300px;
+	height:200px;
+	background-color:#777777;
+    opacity:1;
+    font-size: 20px;
+    margin-left:400px;
+    margin-top:-10px;
+    color:white;}
+.work4:hover {background-color:#848484;}
+.mjpic {width:130px; height:150px;
+	margin-left:70px;}
+
+.work5 {
+	width:300px;
+	height:200px;
+	background-color:#909090;
+    opacity:1;
+    font-size: 20px;
+    margin-left:100px;
+    margin-top:-100px;
+    color:white;}
+.work5:hover {background-color:#9B9B9B;}
+.mjpic {width:130px; height:150px;
+	margin-left:70px;}
+
+
+.contact {
+	width:500px;
+	height:900px;
+	background-color:#909090;
+    opacity:1;
+    font-size: 50px;
+    margin-left:1000px;
+    margin-top:-650px;
+    color:white;
+	font-family: 'Bree Serif', serif;}
+.twitter {
+	width:100px;
+	height:100px;
+	margin-left:20px;}
+.twitter:hover{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);}
+.snapchat {
+	width:100px;
+	height:100px;
+	margin-left:20px;}
+.snapchat:hover{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);}
+.facebook {
+	width:100px;
+	height:100px;
+	margin-left:20px;}
+.facebook:hover{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);}
+.instagram {
+	width:100px;
+	height:100px;
+	margin-left:20px;
+	margin-top:10px;}
+.instagram:hover{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);}
+.gmail {
+	width:100px;
+	height:70px;
+	margin-left:20px;
+	margin-top:10px;}
+.gmail:hover{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);}
